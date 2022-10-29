@@ -1,5 +1,4 @@
 from django.urls import path
-
 from views import index, second_page
 
 app_name = 'infra_app'
